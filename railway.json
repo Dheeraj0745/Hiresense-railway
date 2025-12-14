@@ -3,6 +3,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "apache-tomcat-10/bin/catalina.sh run"
+    "startCommand": "sh ./Tomcat\\ 10.1_Tomcat10a/bin/catalina.sh run"
   }
 }
